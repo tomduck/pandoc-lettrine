@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""lettrine.py - pandoc filter for drop caps styling"""
+"""lettrine.py - A pandoc filter for lettrine (drop caps) styling"""
 
 
 import sys

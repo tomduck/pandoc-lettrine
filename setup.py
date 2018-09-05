@@ -25,7 +25,7 @@ from setuptools.command.install import install
 from setuptools.command.install_scripts import install_scripts
 
 DESCRIPTION = """\
-A pandoc filter for lettrine/drop caps characters.
+A pandoc filter for lettrine (drop caps) styling.
 """
 
 VERSION = '0.1.0'
