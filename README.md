@@ -1,5 +1,5 @@
 
-pandoc-lettrine 0.1.0
+pandoc-lettrine 0.1.1
 =====================
 
 *Lettrine* (noun, french): An (ornamental) initial letter larger than the size of the text it accompanies, usually used at the beginning of a section or chapter of a book.  Known in english typesetting as a "drop cap".

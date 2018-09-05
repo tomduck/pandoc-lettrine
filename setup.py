@@ -28,7 +28,7 @@ DESCRIPTION = """\
 A pandoc filter for lettrine (drop caps) styling.
 """
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 
 #-----------------------------------------------------------------------------
