@@ -8,7 +8,7 @@ pandoc-lettrine 0.1.0
 
 In your markdown, wrap the first character of a paragraph in square brackets to mark it for drop caps.  For TeX/pdf output you should also put `\usepackage{lettrine}` in the `header-includes` field of your file metadata.  See [demo.md] for an example.
 
-Processing [demo.md] with `pandoc -s --filter lettrine` gives output in [pdf], [tex], and [html] formats.
+Processing [demo.md] with `pandoc -s --filter lettrine` gives output in [pdf], [tex], and [html] formats.  Other output formats can be supported given suitable markup examples.
 
 [pandoc]: http://pandoc.org/
 [demo.md]: https://raw.githubusercontent.com/tomduck/pandoc-lettrine/master/demos/demo.md
