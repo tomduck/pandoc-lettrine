@@ -10,7 +10,7 @@ In your markdown, wrap the first character of a paragraph in square brackets to 
 
 Processing [demo.md] with `pandoc -s --filter lettrine` gives output in [pdf], [tex], and [html] formats.  Other output formats can be supported given suitable markup examples.
 
- If you find pandoc-lettrine useful, then please kindly give it a star [on GitHub].
+If you find pandoc-lettrine useful, then please kindly give it a star [on GitHub].
 
 [pandoc]: http://pandoc.org/
 [demo.md]: https://raw.githubusercontent.com/tomduck/pandoc-lettrine/master/demos/demo.md
