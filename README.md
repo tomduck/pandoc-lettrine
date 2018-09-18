@@ -2,7 +2,7 @@
 pandoc-lettrine 0.1.1
 =====================
 
-<i class="lettrine"><i style="float: left; font-size: 2.3em; line-height: 1; font-weight: bold; margin-right: 0.3em;">L</i><i class="smallcaps" style="margin-left: -0.6em">ettrine</i></i> (noun, french): An (ornamental) initial letter larger than the size of the text it accompanies, usually used at the beginning of a section or chapter of a book.  Known in english typesetting as a "drop cap".
+*Lettrine* (noun, french): An (ornamental) initial letter larger than the size of the text it accompanies, usually used at the beginning of a section or chapter of a book.  Known in english typesetting as a "drop cap".
 
 *pandoc-lettrine* is a [pandoc] filter that adds a syntax extension to markdown for drop caps styling.  Python  is required.  You can install the filter using `pip install pandoc-lettrine`.
 
