@@ -1,4 +1,12 @@
 
+
+--------------------------------------------------------------------
+
+**NOTICE:** This project is deprecated in favour of [pandoc-latex-extensions](https://github.com/tomduck/pandoc-latex-extensions).
+
+--------------------------------------------------------------------
+
+
 pandoc-lettrine 0.1.1
 =====================
 
